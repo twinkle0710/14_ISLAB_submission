@@ -5,3 +5,4 @@
 [14_Twinkle.Dhakate_ISLAB_Prolog.pdf](https://github.com/twinkle0710/14_ISLAB_submission/files/7446496/14_Twinkle.Dhakate_ISLAB_Prolog.pdf)
 [14_Twinkle.Dhakate_ISLAB_Assignment 1A.pdf](https://github.com/twinkle0710/14_ISLAB_submission/files/7461482/14_Twinkle.Dhakate_ISLAB_Assignment.1A.pdf)
 [14_MinMax_Algorithm.pdf](https://github.com/twinkle0710/14_ISLAB_submission/files/7461483/14_MinMax_Algorithm.pdf)
+[Uploading 14_Alpha.Beta.pdf…]()
